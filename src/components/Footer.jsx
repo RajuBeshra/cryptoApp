@@ -1,7 +1,7 @@
 import { Avatar, Box, Stack, Text, VStack } from "@chakra-ui/react";
 import React from "react";
 
-const avatarSrc = "https://avatars.githubusercontent.com/u/25058652";
+const avatarSrc = "../assests/my-pic-1-ConvertImage.jpg";
 
 const Footer = () => {
   return (
